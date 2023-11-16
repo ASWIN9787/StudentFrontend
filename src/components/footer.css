@@ -1,0 +1,21 @@
+
+ul{
+    padding-left: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+th {
+    padding-bottom: 13px;
+}
+
+td, th {
+    padding: 10px;
+}
+.footer-container{
+    background-color: black;
+    max-width: 100%;
+    color: white;
+}

@@ -1,0 +1,42 @@
+nav {
+  background: linear-gradient(
+    to top,
+    rgb(173, 152, 152),
+    rgb(127, 147, 159),
+    rgb(112, 55, 87)
+  );
+}
+/* navbar ends */
+
+/* form starts */
+input,
+label {
+  display: block;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  /* margin-bottom: 700px; */
+}
+h1 {
+  text-align: center;
+}
+
+img {
+  height: 300px;
+}
+.layout-container {
+  background-color: linear-gradient(
+    to bottom right,
+    rgb(129, 65, 15),
+    rgb(70, 197, 11),
+    rgb(22, 7, 184)
+  );
+}
+#submit1 {
+  background-color: red;
+}
